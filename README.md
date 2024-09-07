@@ -20,7 +20,7 @@ Country = "🇮🇳"
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning Data Science
 
-- 📫 How to reach me [LinkedIn](www.linkedin.com/in/mohammed-firaz-khan)
+- 📫 How to reach me [<img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](www.linkedin.com/in/mohammed-firaz-khan)
 
 
 ### Languages and Tools I Love💙
