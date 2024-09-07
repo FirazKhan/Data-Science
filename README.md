@@ -6,7 +6,7 @@ who_i_am = Data Science Enthusiast
 Do Check Our Works
 Country = "🇮🇳"
 ```
-[![Profile views](https://gpvc.arturio.dev/FirazKhan)](https://github.com/FirazKhan)
+!Profile views(https://gpvc.arturio.dev/FirazKhan)](https://github.com/FirazKhan)
 
 
 
@@ -23,7 +23,6 @@ Country = "🇮🇳"
 ### Languages and Tools I Love💙
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal.png" />
 <img align="left" alt="Tableau" width="40px" src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" />
 
 
