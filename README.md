@@ -38,7 +38,7 @@ Country = "🇮🇳"
 
 ## Github Trophy🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsyogieu&theme=onedark)](https://github.com/FirazKhan)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FirazKhan&theme=onedark)](https://github.com/FirazKhan)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FirazKhan&theme=chartreuse-dark&hide_border=True" alt="FirazKhan"/></p>
 
