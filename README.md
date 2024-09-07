@@ -6,11 +6,6 @@ who_i_am = Data Science Enthusiast
 Do Check my Works
 Country = "🇮🇳"
 ```
-[![Profile views](https://gpvc.arturio.dev/itsyogieu)](https://github.com/itsyogieu)
-
-
-
-
 
 
 
