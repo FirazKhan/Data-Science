@@ -24,7 +24,7 @@ Country = "🇮🇳"
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="Tableau" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
+<img align="left" alt="Tableau" width="40px" src="[[https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png](https://media.licdn.com/dms/image/v2/D4D12AQFtt35locc2-g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1679145022415?e=1730937600&v=beta&t=a-GtkbCOdNOAjk1uffkr991eXuqTyK1ohxmfOhefGZw)](https://www.oomnitza.com/wp-content/uploads/2023/06/Tableau-logo-300x235.png)" />
 
 
 
